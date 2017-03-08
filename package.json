@@ -1,0 +1,24 @@
+{
+  "name": "pragma-port",
+  "version": "1.0.0",
+  "description": "Generate port number from string. Just for fun",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PragmaWolf/pragma-port.git"
+  },
+  "keywords": [
+    "pragma",
+    "string",
+    "port",
+    "generator",
+    "fun"
+  ],
+  "author": "Dmitry Furman <pragmawolf@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/PragmaWolf/pragma-port/issues"
+  },
+  "homepage": "https://github.com/PragmaWolf/pragma-port#readme"
+}
